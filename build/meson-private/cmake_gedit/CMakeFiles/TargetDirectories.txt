@@ -1,0 +1,2 @@
+/home/tre/Projects/elementary/com.github.trebabcock.Writer/build/meson-private/cmake_gedit/CMakeFiles/rebuild_cache.dir
+/home/tre/Projects/elementary/com.github.trebabcock.Writer/build/meson-private/cmake_gedit/CMakeFiles/edit_cache.dir

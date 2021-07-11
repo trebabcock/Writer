@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Writer
+Comment=Comment
+GenericName=GenericName
+Exec=com.github.trebabcock.Writer %U
+Icon=com.github.trebabcock.Writer
+Terminal=false
+Categories=Utility;GTK;Development;
+Keywords=Develop

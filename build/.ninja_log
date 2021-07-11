@@ -1,0 +1,21 @@
+# ninja log v5
+415	652	1622411136	com.github.trebabcock.Writer@exe/meson-generated_src_Document.c.o	410fe384f5df0fba
+8	415	1622411131	com.github.trebabcock.Writer@exe/src/Document.c	6277985c8823fc93
+8	415	1622411131	com.github.trebabcock.Writer@exe/src/Application.c	6277985c8823fc93
+652	750	1622411136	com.github.trebabcock.Writer	6a814298932d2217
+0	383	1622304251	data/com.github.trebabcock.Writer.appdata.xml	1c37b75bd350c57b
+428	701	1622407002	com.github.trebabcock.Writer@exe/meson-generated_src_Application.c.o	7721313050f06f11
+489	711	1622406968	com.github.trebabcock.Writer@exe/meson-generated_src_FileHandling.c.o	83bc2f6f8f9705a8
+0	443	1622408057	build.ninja	46fcceac6bfbec8d
+322	656	1622306822	data/com.github.trebabcock.Writer.desktop	9a730788e3bc5250
+8	415	1622411131	com.github.trebabcock.Writer@exe/src/FileHandling.c	6277985c8823fc93
+9	433	1622432732	com.github.trebabcock.Writer@exe/src/Application.c	6277985c8823fc93
+9	433	1622432732	com.github.trebabcock.Writer@exe/src/Document.c	6277985c8823fc93
+9	433	1622432732	com.github.trebabcock.Writer@exe/src/FileHandling.c	6277985c8823fc93
+433	667	1622432741	com.github.trebabcock.Writer@exe/meson-generated_src_Document.c.o	410fe384f5df0fba
+667	764	1622432741	com.github.trebabcock.Writer	6a814298932d2217
+6	394	1622432807	com.github.trebabcock.Writer@exe/src/Application.c	6277985c8823fc93
+6	394	1622432807	com.github.trebabcock.Writer@exe/src/Document.c	6277985c8823fc93
+6	394	1622432807	com.github.trebabcock.Writer@exe/src/FileHandling.c	6277985c8823fc93
+394	634	1622432818	com.github.trebabcock.Writer@exe/meson-generated_src_Document.c.o	410fe384f5df0fba
+634	730	1622432818	com.github.trebabcock.Writer	6a814298932d2217
